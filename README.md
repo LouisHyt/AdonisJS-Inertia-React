@@ -1,4 +1,4 @@
-# AdonisJS - Introduction
+# AdonisJS - Inertia & React
 
 ## 📝 Description
 This project is a Node.js application built with AdonisJS and TypeScript. It uses Inertia, React and Transmit for SSE.
